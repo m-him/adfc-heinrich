@@ -1,5 +1,5 @@
 # Notfall-Hotline: 
-:telephone_receiver: [0351 2129 5009](tel:035121295009)
+[0351 2129 5009](tel:035121295009)
 
 ## Hinweise zur Nutzung von ADFC Heinrich
 **Bitte VOR der Nutzung lesen!**
