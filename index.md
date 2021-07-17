@@ -1,4 +1,5 @@
-# Notfall-Hotline: [0351 2129 5009](tel:035121295009)
+# Notfall-Hotline: 
+:telephone_receiver: [0351 2129 5009](tel:035121295009)
 
 ## Hinweise zur Nutzung von ADFC Heinrich
 **Bitte VOR der Nutzung lesen!**
@@ -10,6 +11,7 @@
 - Verleihstation oder Fahrradeigentümer haften nicht für Fahrfehler oder Unfälle.
 - Vor Fahrantritt das Fahrrad auf Funktionstüchtigkeit prüfen, insbesondere Bremsen, Lenkung, Reifendruck, Lenker und Sattel.
 - Alle weiteren Details stehen in den [Nutzungsbedingungen von Frieda & Friedrich](https://friedafriedrich.de/AGB-Frieda-und-Friedrich.pdf).
+
 ### Der Akku
 - Der Akku sollte behandelt werden wie ein rohes Ei.
 - Er darf nicht runterfallen oder ähnliches!
@@ -17,6 +19,7 @@
 - Ein Magnetstecker auf der in Fahrtrichtung rechten Seite wird mithilfe der Markierungen manuell befestigt und zum Entnehmen des Akkus VORHER wieder manuell entfernt. 
 - Das Schloss auf der linken Seite immer abschließen!
 - Den Akku bitte aufgeladen zurückgeben!
+
 ### Die Motor-Antriebssteuerung und das Fahrlicht
 - Motor und Fahrlicht sich über das Display-Panel am rechten Lenkergriff bedienen. 
 - Zum Start den Power-Knopf 5 Sekunden drücken. 
