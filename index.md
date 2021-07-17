@@ -3,6 +3,8 @@
 
 ![Foto von ADFC Heinrich](https://m-him.github.io/adfc-heinrich/AA664347-63B5-418F-B7A0-D496C266D45A.jpeg)
 
+[Checkliste](checklist.md)
+
 ## Nutzungsbedingungen
   Die Nutzung erfolgt grundsätzlich auf eigene Gefahr. 
   Verleihstation oder Fahrradeigentümer haften nicht für Fahrfehler oder Unfälle. 
