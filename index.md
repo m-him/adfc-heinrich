@@ -8,19 +8,21 @@
 
 <strong>Bitte VOR der Nutzung lesen!</strong>
 <h2>Nutzungsbedingungen</h2>
-<p>Die Nutzung erfolgt grundsätzlich auf eigene Gefahr. 
-Verleihstation oder Fahrradeigentümer haften nicht für Fahrfehler oder Unfälle. 
-Bitte prüft vor Fahrantritt das Fahrrad auf Funktionstüchtigkeit, insbesondere Bremsen, Lenkung, Reifendruck und flexible Befestigungspunkte (Lenker, Sattel).
-Alle weiteren Details stehen in den AGB, die wir mit allen Frieda-Friedrich-Fahrrädern teilen.
-<h2>Der Akku</h2>
-<p>Der Akku sollte behandelt werden wie ein rohes Ei.<br />
-Er darf nicht runterfallen oder ähnliches! <br />
-Er wird von oben in die Halterung eingeschoben. <br />
-Ein Magnetstecker auf der in Fahrtrichtung rechten Seite wird mithilfe der Markierungen manuell befestigt und zum Entnehmen des Akkus VORHER wieder manuell entfernt. 
-Das Schloss auf der linken Seite immer abschließen!
-Den Akku bitte aufgeladen zurückgeben!
+<p>
+  Die Nutzung erfolgt grundsätzlich auf eigene Gefahr. 
+  Verleihstation oder Fahrradeigentümer haften nicht für Fahrfehler oder Unfälle. 
+  Bitte prüft vor Fahrantritt das Fahrrad auf Funktionstüchtigkeit, insbesondere Bremsen, Lenkung, Reifendruck und flexible Befestigungspunkte (Lenker, Sattel).
+  Alle weiteren Details stehen in den AGB, die wir mit allen Frieda-Friedrich-Fahrrädern teilen.
 </p>
-
+<h2>Der Akku</h2>
+<p>
+  Der Akku sollte behandelt werden wie ein rohes Ei.<br />
+  Er darf nicht runterfallen oder ähnliches! <br />
+  Er wird von oben in die Halterung eingeschoben. <br />
+  Ein Magnetstecker auf der in Fahrtrichtung rechten Seite wird mithilfe der Markierungen manuell befestigt und zum Entnehmen des Akkus VORHER wieder manuell entfernt. 
+  Das Schloss auf der linken Seite immer abschließen!
+  Den Akku bitte aufgeladen zurückgeben!
+</p>
 <h2>Die Motor-Antriebssteuerung und das Fahrlicht</h2>
 Lassen sich über das Display-Panel am rechten Lenkergriff bedienen. 
 Zum Start den Power-Knopf 5 Sekunden drücken. 
