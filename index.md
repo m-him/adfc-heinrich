@@ -4,7 +4,7 @@
 ## Hinweise zur Nutzung von ADFC Heinrich
 **Bitte VOR der Nutzung lesen!**
 
-![Foto von ADFC Heinrich](https://m-him.github.io/adfc-heinrich/AA664347-63B5-418F-B7A0-D496C266D45A.jpeg)
+![Foto von ADFC Heinrich](https://m-him.github.io/adfc-heinrich/32F709F5-24F7-4420-A6B8-B1C016190002.jpeg)
 
 ### Nutzungsbedingungen
 - Die Nutzung erfolgt auf eigene Gefahr. 
